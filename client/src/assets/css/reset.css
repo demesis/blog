@@ -1,0 +1,48 @@
+html {
+    font-family: "Microsoft YaHei", serif;
+    font-size: 14px;
+}
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+hr,
+p,
+blockquote,
+dl,
+dt,
+dd,
+ul,
+ol,
+li,
+pre,
+fieldset,
+button,
+input,
+textarea,
+th,
+td {
+    margin: 0;
+    padding: 0;
+}
+ul,
+ol {
+    list-style: none;
+}
+/* 閲嶇疆鏂囨湰鏍煎紡鍏冪礌 */
+a {
+    text-decoration: none;
+    
+}
+/* 閲嶇疆琛ㄦ牸鍏冪礌 */
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+/*鍥剧墖鍧楀寲涓庡幓鎺塱e杈规*/
+img {
+    border: 0;
+}
